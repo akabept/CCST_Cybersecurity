@@ -1,0 +1,574 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="512px" height="500px" viewBox="0 0 512 500">
+<defs>
+<g id="Layer0_0_MEMBER_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 129.55 177.6
+L 89.95 185.85 114.05 212.85 153.65 204.6 129.55 177.6 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_1_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 193.1 196.35
+L 169 169.35 132.25 177 156.35 204 193.1 196.35 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_2_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 171.7 168.8
+L 195.8 195.8 231.25 188.4 207.15 161.4 171.7 168.8 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_3_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 233.1 190.5
+L 197.65 197.85 222.65 225.85 258.05 218.45 233.1 190.5 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_4_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 183.2 234.05
+L 219.9 226.4 194.95 198.45 158.2 206.1 183.2 234.05 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_5_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 115.9 214.9
+L 140.9 242.9 180.5 234.6 155.5 206.65 115.9 214.9 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_6_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 169.7 275.1
+L 209.3 266.85 182.35 236.7 142.75 244.95 169.7 275.1 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_7_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 185.05 236.15
+L 212 266.3 248.7 258.65 221.8 228.5 185.05 236.15 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_8_FILL">
+<path fill="#E2231A" stroke="none" d="
+M 238.15 296.15
+L 249.75 260.9 212.25 268.7 200.65 303.95 238.15 296.15 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_9_FILL">
+<path fill="#E2231A" stroke="none" d="
+M 225.4 334.8
+L 237.25 298.8 199.8 306.6 187.95 342.6 225.4 334.8 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_10_FILL">
+<path fill="#E2231A" stroke="none" d="
+M 212.3 374.6
+L 224.55 337.45 187.05 345.25 174.85 382.4 212.3 374.6 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_11_FILL">
+<path fill="#6ABF4B" stroke="none" d="
+M 145 354
+L 132.75 391.15 172.1 382.95 184.35 345.8 145 354 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_12_FILL">
+<path fill="#6ABF4B" stroke="none" d="
+M 157.7 315.4
+L 145.85 351.4 185.2 343.15 197.05 307.2 157.7 315.4 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_13_FILL">
+<path fill="#6ABF4B" stroke="none" d="
+M 209.55 269.25
+L 170.2 277.45 158.55 312.75 197.95 304.55 209.55 269.25 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_14_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 130.45 390.4
+L 142.7 353.25 115.9 323.25 103.65 360.4 130.45 390.4 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_15_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 143.55 350.6
+L 155.4 314.65 128.6 284.65 116.75 320.65 143.55 350.6 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_16_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 141.1 246.75
+L 129.5 282 156.3 312 167.9 276.7 141.1 246.75 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_17_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 127.65 279.95
+L 139.25 244.65 113.75 216.1 102.15 251.4 127.65 279.95 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_18_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 101.25 254
+L 89.4 290 114.9 318.55 126.75 282.55 101.25 254 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_19_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 101.8 358.35
+L 114.05 321.2 88.55 292.65 76.3 329.8 101.8 358.35 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_20_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 100.3 249.3
+L 111.9 214.05 88.15 187.45 76.55 222.7 100.3 249.3 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_21_FILL">
+<path fill="#CED4DA" stroke="none" d="
+M 208.45 159.3
+Q 208.05 158.8 207.3 158.9
+L 87.4 183.9 48.2 301.05
+Q 48 301.6 48.45 302.25
+L 130.05 393.6
+Q 130.55 394.1 131.2 393.95
+L 251.1 368.95
+Q 251.75 368.8 252 368.15
+L 290.3 251.8
+Q 290.55 251.15 290.05 250.65
+L 208.45 159.3
+M 195.8 195.8
+L 171.7 168.8 207.15 161.4 231.25 188.4 195.8 195.8
+M 169 169.35
+L 193.1 196.35 156.4 204 132.25 177.05 169 169.35
+M 197.65 197.85
+L 233.1 190.5 258.05 218.45 222.65 225.85 197.65 197.85
+M 89.95 185.85
+L 129.55 177.6 153.65 204.6 114.05 212.85 89.95 185.85
+M 89.4 290
+L 101.25 254.05 126.75 282.55 114.9 318.55 89.4 290
+M 99.4 251.95
+L 87.55 287.95 63.8 261.35 75.65 225.35 99.4 251.95
+M 129.5 282
+L 141.1 246.75 167.9 276.7 156.3 312 129.5 282
+M 115.9 214.9
+L 155.5 206.65 180.5 234.6 140.9 242.85 115.9 214.9
+M 113.75 216.1
+L 139.25 244.65 127.65 279.9 102.15 251.4 113.75 216.1
+M 111.9 214.05
+L 100.3 249.3 76.55 222.75 88.15 187.45 111.9 214.05
+M 74.45 327.75
+L 50.7 301.15 62.95 264 86.7 290.6 74.45 327.75
+M 142.7 353.25
+L 130.45 390.4 103.7 360.4 115.9 323.3 142.7 353.25
+M 132.75 391.15
+L 145 354 184.35 345.8 172.1 382.95 132.75 391.15
+M 143.55 350.6
+L 116.75 320.65 128.65 284.65 155.4 314.6 143.55 350.6
+M 145.85 351.35
+L 157.7 315.4 197.05 307.15 185.2 343.15 145.85 351.35
+M 114.05 321.2
+L 101.8 358.35 76.3 329.8 88.55 292.65 114.05 321.2
+M 259.95 220.55
+L 286.85 250.7 251.45 258.1 224.5 227.9 259.95 220.55
+M 287.35 253.05
+L 275.75 288.3 240.85 295.6 252.45 260.3 287.35 253.05
+M 209.3 266.85
+L 169.7 275.1 142.75 244.95 182.35 236.7 209.3 266.85
+M 170.2 277.5
+L 209.55 269.25 197.95 304.55 158.55 312.75 170.2 277.5
+M 212 266.3
+L 185.05 236.15 221.75 228.5 248.75 258.65 212 266.3
+M 219.95 226.4
+L 183.2 234.05 158.25 206.1 194.95 198.45 219.95 226.4
+M 237.25 298.8
+L 225.4 334.8 187.95 342.6 199.8 306.6 237.25 298.8
+M 228.15 334.25
+L 240 298.25 274.9 290.95 263 326.95 228.15 334.25
+M 212.3 374.6
+L 174.85 382.4 187.05 345.25 224.55 337.4 212.3 374.6
+M 215.05 374
+L 227.25 336.85 262.15 329.6 249.95 366.75 215.05 374
+M 238.15 296.15
+L 200.65 303.95 212.25 268.7 249.75 260.9 238.15 296.15 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_22_FILL">
+<path fill="#FFCC00" stroke="none" d="
+M 240 298.25
+L 228.15 334.25 263 326.95 274.9 290.95 240 298.25 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_23_FILL">
+<path fill="#FFCC00" stroke="none" d="
+M 227.25 336.85
+L 215.05 374 249.95 366.75 262.15 329.6 227.25 336.85 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_24_FILL">
+<path fill="#FFCC00" stroke="none" d="
+M 287.35 253.05
+L 252.45 260.3 240.85 295.6 275.75 288.3 287.35 253.05 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_25_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 286.85 250.7
+L 259.9 220.55 224.5 227.9 251.45 258.1 286.85 250.7 Z"/>
+</g>
+
+<g id="Layer0_4_MEMBER_0_MEMBER_1_MEMBER_0_FILL">
+<path fill="#6ABF4B" stroke="none" d="
+M 293.6 441.05
+L 297.95 441.05 303 436 297.95 430.9 293.6 430.9 298.7 436 293.6 441.05 Z"/>
+</g>
+
+<g id="Layer0_5_MEMBER_0_MEMBER_1_MEMBER_0_FILL">
+<path fill="#E2231A" stroke="none" d="
+M 396.6 368.9
+L 396.6 364.55 391.5 359.5 386.45 364.55 386.45 368.9 391.5 363.8 396.6 368.9 Z"/>
+</g>
+
+<g id="Layer0_6_MEMBER_0_MEMBER_1_MEMBER_0_FILL">
+<path fill="#FFCC00" stroke="none" d="
+M 403.6 264.9
+L 403.6 260.55 398.5 255.5 393.45 260.55 393.45 264.9 398.5 259.8 403.6 264.9 Z"/>
+</g>
+
+<path id="Layer0_4_MEMBER_0_MEMBER_0_1_STROKES" stroke="#6ABF4B" stroke-width="3" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" fill="none" d="
+M 158 369
+L 158 436 299.6 436"/>
+
+<path id="Layer0_5_MEMBER_0_MEMBER_0_1_STROKES" stroke="#E2231A" stroke-width="3" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" fill="none" d="
+M 201.5 368.5
+L 201.5 394.5 391.5 394.5 391.5 362.9"/>
+
+<path id="Layer0_6_MEMBER_0_MEMBER_0_1_STROKES" stroke="#FFCC00" stroke-width="3" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" fill="none" d="
+M 264.5 276.5
+L 398.5 276.5 398.5 258.9"/>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Times New Roman
+Vendor ID: TMC 
+© 2017 The Monotype Corporation. All Rights Reserved. 
+
+Hebrew OpenType Layout logic copyright © 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; see embedded license description for details.
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=TMC&Name=Times%20New%20Roman&PSName=TimesNewRomanPSMT&applanguage=en_US-->
+<font-face font-family="Arial" units-per-em="2048" ascent="1825" descent="443"/>
+
+<hkern u1="T" u2="e" k="143"/>
+
+<glyph unicode="P" horiz-adv-x="1139" d="
+M 420 635
+L 420 240
+Q 420 112 448 81 486 37 563 37
+L 615 37 615 0 34 0 34 37 85 37
+Q 171 37 208 93 228 124 228 240
+L 228 1116
+Q 228 1244 201 1275 162 1319 85 1319
+L 34 1319 34 1356 531 1356
+Q 713 1356 818 1318 923 1281 995 1192 1067 1103 1067 981 1067 815 958 711 848 607 648 607 599 607 542 614 485 621 420 635 Z
+M 420 692
+Q 473 682 514 677 555 672 584 672 688 672 764 752 839 833 839 961 839 1049 803 1124 767 1200 701 1237 635 1275 551 1275 500 1275 420 1256
+L 420 692 Z"/>
+
+<glyph unicode="e" horiz-adv-x="909" d="
+M 218 571
+Q 217 367 317 251 417 135 552 135 642 135 709 184 775 234 820 354
+L 851 334
+Q 830 197 729 84 628 -28 476 -28 311 -28 194 100 76 229 76 446 76 681 197 812 317 944 499 944 653 944 752 842 851 741 851 571
+L 218 571 Z
+M 218 629
+L 642 629
+Q 637 717 621 753 596 809 547 841 497 873 443 873 360 873 295 808 229 744 218 629 Z"/>
+
+<glyph unicode="r" horiz-adv-x="682" d="
+M 332 943
+L 332 737
+Q 447 943 568 943 623 943 659 909 695 876 695 832 695 793 669 766 643 739 607 739 572 739 529 773 485 808 464 808 446 808 425 788 380 747 332 653
+L 332 214
+Q 332 138 351 99 364 72 397 54 430 36 492 36
+L 492 0 23 0 23 36
+Q 93 36 127 58 152 74 162 109 167 126 167 206
+L 167 561
+Q 167 721 161 751 154 782 137 796 119 810 93 810 62 810 23 795
+L 13 831 290 943 332 943 Z"/>
+
+<glyph unicode="s" horiz-adv-x="797" d="
+M 656 943
+L 656 631 623 631
+Q 585 778 526 831 466 884 374 884 304 884 261 847 218 810 218 765 218 709 250 669 281 628 376 582
+L 522 511
+Q 725 412 725 250 725 125 631 48 536 -28 419 -28 335 -28 227 2 194 12 173 12 150 12 137 -14
+L 104 -14 104 313 137 313
+Q 165 173 244 102 323 31 421 31 490 31 534 71 577 112 577 169 577 238 529 285 480 332 335 404 190 476 145 534 100 591 100 678 100 791 178 867 255 943 378 943 432 943 509 920 560 905 577 905 593 905 602 912 611 919 623 943
+L 656 943 Z"/>
+
+<glyph unicode="o" horiz-adv-x="1024" d="
+M 512 943
+Q 720 943 846 785 953 650 953 475 953 352 894 226 835 100 732 36 628 -28 501 -28 294 -28 172 137 69 276 69 449 69 575 132 699 194 824 296 883 398 943 512 943 Z
+M 481 878
+Q 428 878 375 846 321 815 288 736 255 657 255 533 255 333 335 188 414 43 544 43 641 43 704 123 767 203 767 398 767 642 662 782 591 878 481 878 Z"/>
+
+<glyph unicode="n" horiz-adv-x="1024" d="
+M 331 749
+Q 492 943 638 943 713 943 767 905 821 868 853 782 875 722 875 598
+L 875 207
+Q 875 120 889 89 900 64 925 50 949 36 1015 36
+L 1015 0 562 0 562 36 581 36
+Q 645 36 671 55 696 75 706 113 710 128 710 207
+L 710 582
+Q 710 707 678 763 645 820 568 820 449 820 331 690
+L 331 207
+Q 331 114 342 92 356 63 381 49 405 36 480 36
+L 480 0 27 0 27 36 47 36
+Q 117 36 142 71 166 107 166 207
+L 166 547
+Q 166 712 159 748 151 784 136 797 120 810 94 810 66 810 27 795
+L 12 831 288 943 331 943 331 749 Z"/>
+
+<glyph unicode="a" horiz-adv-x="909" d="
+M 583 132
+Q 442 23 406 6 352 -19 291 -19 196 -19 135 46 73 111 73 217 73 284 103 333 144 401 246 461 347 521 583 607
+L 583 643
+Q 583 780 540 831 496 882 413 882 350 882 313 848 275 814 275 770
+L 277 712
+Q 277 666 254 641 230 616 192 616 155 616 132 642 108 668 108 713 108 799 196 871 284 943 443 943 565 943 643 902 702 871 730 805 748 762 748 629
+L 748 318
+Q 748 187 753 157 758 128 770 118 781 108 796 108 812 108 824 115 845 128 905 188
+L 905 132
+Q 793 -18 691 -18 642 -18 613 16 584 50 583 132 Z
+M 583 197
+L 583 546
+Q 432 486 388 461 309 417 275 369 241 321 241 264 241 192 284 144 327 97 383 97 459 97 583 197 Z"/>
+
+<glyph unicode="T" horiz-adv-x="1251" d="
+M 1185 1356
+L 1200 1038 1162 1038
+Q 1151 1122 1132 1158 1101 1216 1050 1243 998 1271 914 1271
+L 723 1271 723 235
+Q 723 110 750 79 788 37 867 37
+L 914 37 914 0 339 0 339 37 387 37
+Q 473 37 509 89 531 121 531 235
+L 531 1271 368 1271
+Q 273 1271 233 1257 181 1238 144 1184 107 1130 100 1038
+L 62 1038 78 1356 1185 1356 Z"/>
+
+<glyph unicode="c" horiz-adv-x="909" d="
+M 842 348
+Q 805 167 697 69 589 -28 458 -28 302 -28 186 103 70 234 70 457 70 673 199 808 327 943 507 943 642 943 729 871 816 800 816 723 816 685 792 661 767 638 723 638 664 638 634 676 617 697 612 756 606 815 571 846 536 876 474 876 374 876 313 802 232 704 232 543 232 379 313 253 393 128 530 128 628 128 706 195 761 241 813 362
+L 842 348 Z"/>
+
+<glyph unicode="l" horiz-adv-x="569" d="
+M 379 1422
+L 379 207
+Q 379 121 392 93 404 65 430 50 456 36 527 36
+L 527 0 78 0 78 36
+Q 141 36 164 49 187 62 200 92 213 122 213 207
+L 213 1039
+Q 213 1194 206 1229 199 1265 184 1278 168 1291 144 1291 118 1291 78 1275
+L 61 1310 334 1422 379 1422 Z"/>
+
+<glyph unicode="g" horiz-adv-x="1024" d="
+M 309 334
+Q 225 375 180 448 135 522 135 611 135 747 238 845 340 943 500 943 631 943 727 879
+L 921 879
+Q 964 879 971 876 978 874 981 868 987 859 987 836 987 810 982 800 979 795 972 792 964 789 921 789
+L 802 789
+Q 858 717 858 605 858 477 760 386 662 295 497 295 429 295 358 315 314 277 299 248 283 220 283 200 283 183 300 167 316 151 364 144 392 140 504 137 710 132 771 123 864 110 920 54 975 -2 975 -84 975 -197 869 -296 713 -442 462 -442 269 -442 136 -355 61 -305 61 -251 61 -227 72 -203 89 -166 142 -100 149 -91 244 8 192 39 171 63 149 88 149 119 149 154 178 201 206 248 309 334 Z
+M 299 0
+Q 252 -51 228 -95 204 -139 204 -176 204 -224 262 -260 362 -322 551 -322 731 -322 817 -259 902 -195 902 -123 902 -71 851 -49 799 -27 645 -23 420 -17 299 0 Z
+M 483 895
+Q 409 895 359 836 309 777 309 655 309 497 377 410 429 344 509 344 585 344 634 401 683 458 683 580 683 739 614 829 563 895 483 895 Z"/>
+
+<glyph unicode="í" horiz-adv-x="569" d="
+M 379 943
+L 379 207
+Q 379 121 392 92 405 64 430 50 454 36 519 36
+L 519 0 74 0 74 36
+Q 141 36 164 49 187 62 201 92 214 122 214 207
+L 214 560
+Q 214 709 205 753 198 785 183 797 168 810 142 810 114 810 74 795
+L 60 831 336 943 379 943 Z
+M 498 1390
+L 203 1045 169 1045 274 1390 498 1390 Z"/>
+
+<glyph unicode="t" horiz-adv-x="569" d="
+M 330 1217
+L 330 916 544 916 544 846 330 846 330 252
+Q 330 163 356 132 381 101 421 101 454 101 485 121 516 142 533 182
+L 572 182
+Q 537 84 473 34 409 -15 341 -15 295 -15 251 10 207 36 186 83 165 131 165 230
+L 165 846 20 846 20 879
+Q 75 901 133 953 190 1006 235 1078 258 1116 299 1217
+L 330 1217 Z"/>
+
+<glyph unicode="i" horiz-adv-x="569" d="
+M 380 943
+L 380 207
+Q 380 121 393 92 405 64 430 50 454 36 519 36
+L 519 0 74 0 74 36
+Q 141 36 164 49 187 62 201 92 214 122 214 207
+L 214 560
+Q 214 709 205 753 198 785 183 797 168 810 142 810 114 810 74 795
+L 60 831 336 943 380 943 Z
+M 297 1422
+Q 339 1422 369 1392 398 1363 398 1321 398 1279 369 1249 339 1219 297 1219 255 1219 225 1249 195 1279 195 1321 195 1363 225 1392 254 1422 297 1422 Z"/>
+</font>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_2_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_3_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_4_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_5_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_6_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_7_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_8_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_9_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_10_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_11_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_12_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_13_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_14_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_15_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_16_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_17_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_18_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_19_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_20_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_21_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_22_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_23_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_24_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_0_MEMBER_25_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 317.05,167.65) ">
+<clipPath id="Mask_Mask_1">
+<rect x="30.45" y="-2" width="115.55" height="33.45" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="32.65" y="23.85" baseline-shift="0%" kerning="auto" font-family="Arial" font-size="26.35" fill="#000000" xml:space="preserve">Personas</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 305.5,261.15) ">
+<clipPath id="Mask_Mask_2">
+<rect x="14.35" y="-2" width="131.65" height="33.45" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_2)" writing-mode="lr"><tspan x="16.55" y="23.85" baseline-shift="0%" kerning="auto" font-family="Arial" font-size="26.35" fill="#000000" xml:space="preserve">Tecnología</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 277.65,362.65) ">
+<clipPath id="Mask_Mask_3">
+<rect x="42.2" y="-2" width="103.8" height="33.45" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_3)" writing-mode="lr"><tspan x="44.4" y="23.85" baseline-shift="0%" kerning="auto" font-family="Arial" font-size="26.35" fill="#000000" xml:space="preserve">Políticas</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_4_MEMBER_0_MEMBER_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_4_MEMBER_0_MEMBER_1_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_5_MEMBER_0_MEMBER_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_5_MEMBER_0_MEMBER_1_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_6_MEMBER_0_MEMBER_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-56.4) ">
+<use xlink:href="#Layer0_6_MEMBER_0_MEMBER_1_MEMBER_0_FILL"/>
+</g>
+</svg>

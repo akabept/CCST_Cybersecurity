@@ -1,0 +1,134 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1024px" height="458px" viewBox="0 0 1024 458">
+<defs>
+<g id="s_0_Layer0_3_FILL">
+<path fill="#1E4471" stroke="none" d="
+M 368.65 80.7
+L 335.1 80.7 351.9 109.75 368.65 80.7 Z"/>
+</g>
+
+<g id="s_0_Layer0_4_FILL">
+<path fill="#1E4471" stroke="none" d="
+M 368.65 80.7
+L 335.1 80.7 351.9 109.75 368.65 80.7 Z"/>
+</g>
+
+<path id="s_0_Layer0_0_1_STROKES" stroke="#FBAB18" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 66.75 377.7
+L 931.95 63.5"/>
+
+<path id="s_0_Layer0_1_1_STROKES" stroke="#1E4471" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 66.75 377.7
+L 66.75 81.8"/>
+
+<path id="s_0_Layer0_2_1_STROKES" stroke="#1E4471" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 66.75 377.7
+L 934.1 377.7"/>
+
+<path id="s_0_Layer0_3_1_STROKES" stroke="#335A97" stroke-opacity="0" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 45.30000000000001 0
+L 62.099999999999966 29.049999999999997 28.55000000000001 29.049999999999997 45.30000000000001 0 Z"/>
+
+<path id="s_0_Layer0_4_1_STROKES" stroke="#335A97" stroke-opacity="0" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 943.1 315
+L 914.0500000000001 331.79999999999995 914.0500000000001 298.25 943.1 315 Z"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 19,62.4) ">
+<g transform="matrix( 1, 0, 0, 1, -17.9,-63.5) ">
+<use xlink:href="#s_0_Layer0_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -21.2,-63.5) ">
+<use xlink:href="#s_0_Layer0_1_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -19,-62.4) ">
+<use xlink:href="#s_0_Layer0_2_1_STROKES"/>
+</g>
+
+<g transform="matrix( -1, 0, 0, -1, 397.2,109.75) ">
+<use xlink:href="#s_0_Layer0_3_FILL"/>
+
+<use xlink:href="#s_0_Layer0_3_1_STROKES" transform="matrix( -1, 0, 0, -1, 397.2,109.75) "/>
+</g>
+
+<g transform="matrix( 0, -1, 1, 0, 833.35,666.9) ">
+<use xlink:href="#s_0_Layer0_4_FILL"/>
+
+<use xlink:href="#s_0_Layer0_4_1_STROKES" transform="matrix( 0, 1, -1, 0, 666.9,-833.35) "/>
+</g>
+
+<g id="f45d41cb_2d8d_43cd_9d6b_d98ecfa68c5c" transform="matrix( 1, 0, 0, 1, -7.2,333.8) ">
+<clipPath id="Mask_Mask_1">
+<rect x="48.25" y="-2" width="47.5" height="26.35" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="50.35" y="18.1" baseline-shift="0%" font-family="Arial" font-weight="bold" font-size="20" fill="#E30613" xml:space="preserve">Bajo</tspan></text>
+</g>
+
+<g id="FL_5669a19f_07be_4a4f_83f1_a8d9a7e33a8c" transform="matrix( 1, 0, 0, 1, 803.1,338.2) ">
+<clipPath id="Mask_Mask_2">
+<rect x="50.5" y="-2" width="43" height="26.35" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_2)" writing-mode="lr"><tspan x="52.55" y="18.1" baseline-shift="0%" font-family="Arial" font-weight="bold" font-size="20" fill="#E30613" xml:space="preserve">Alto</tspan></text>
+</g>
+
+<g id="FL_9156d916_9511_479d_98ab_5330c0b3db8d" transform="matrix( 0, -1, 1, 0, 11.7,134.2) ">
+<clipPath id="Mask_Mask_3">
+<rect x="50.5" y="-2" width="43" height="26.35" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_3)" writing-mode="lr"><tspan x="52.55" y="18.1" baseline-shift="0%" font-family="Arial" font-weight="bold" font-size="20" fill="#E30613" xml:space="preserve">Alto</tspan></text>
+</g>
+
+<g id="f723991d_361a_46ab_a38c_6d5b7d430ba9" transform="matrix( 0, -1, 1, 0, 11.7,371.55) ">
+<clipPath id="Mask_Mask_4">
+<rect x="48.25" y="-2" width="47.5" height="26.35" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_4)" writing-mode="lr"><tspan x="50.35" y="18.1" baseline-shift="0%" font-family="Arial" font-weight="bold" font-size="20" fill="#E30613" xml:space="preserve">Bajo</tspan></text>
+</g>
+
+<g id="FL_1fef99ef_caba_4220_a8af_94acc05ef864" transform="matrix( 0, -1, 1, 0, 2,306.05) ">
+<clipPath id="Mask_Mask_5">
+<rect x="78.3" y="-2" width="125.2" height="26.35" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_5)" writing-mode="lr"><tspan x="80.4" y="18.1" baseline-shift="0%" font-family="Arial" font-weight="bold" font-size="20" fill="#1E4471" xml:space="preserve">Probabilidad</tspan></text>
+</g>
+
+<g id="FL_63443eed_b2cd_4422_8b24_85d27143efb0" transform="matrix( 1, 0, 0, 1, 820.4,42.7) ">
+<clipPath id="Mask_Mask_6">
+<rect x="50.5" y="-2" width="43" height="26.35" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_6)" writing-mode="lr"><tspan x="52.55" y="18.1" baseline-shift="0%" font-family="Arial" font-weight="bold" font-size="20" fill="#1E4471" xml:space="preserve">Alto</tspan></text>
+</g>
+
+<g id="FL_161d0a79_5fee_4d14_adfc_e50968074f0a" transform="matrix( 1, 0, 0, 1, 151,277.8) ">
+<clipPath id="Mask_Mask_7">
+<rect x="48.25" y="-2" width="47.5" height="26.35" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_7)" writing-mode="lr"><tspan x="50.35" y="18.1" baseline-shift="0%" font-family="Arial" font-weight="bold" font-size="20" fill="#1E4471" xml:space="preserve">Bajo</tspan></text>
+</g>
+
+<g id="FL_839be640_c152_420a_8b0e_f5df0f540ddc" transform="matrix( 1, 0, 0, 1, 487.85,167.05) ">
+<clipPath id="Mask_Mask_8">
+<rect x="22.2" y="-2" width="99.6" height="26.35" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_8)" writing-mode="lr"><tspan x="24.25" y="18.1" baseline-shift="0%" font-family="Arial" font-weight="bold" font-size="20" fill="#1E4471" xml:space="preserve">Aceptable</tspan></text>
+</g>
+
+<g id="cd6f5b17_70c4_4899_bc21_5986d1db7523" transform="matrix( 1, 0, 0, 1, 423.3,333.8) ">
+<clipPath id="Mask_Mask_9">
+<rect x="-24.45" y="-2" width="192.9" height="26.35" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_9)" writing-mode="lr"><tspan x="-22.4" y="18.1" baseline-shift="0%" font-family="Arial" font-weight="bold" font-size="20" fill="#1E4471" xml:space="preserve">Impacto / Severidad</tspan></text>
+</g>
+</g>
+</svg>
