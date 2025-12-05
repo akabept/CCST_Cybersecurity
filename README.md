@@ -9,6 +9,5 @@
 
 # Recursos CISCO Networking Academy
 
-## <a target="_blank" href="./Introduccion_Cisco_Packet-Tracer/00-Curso.md">Introduccion a Cisco Packet-Tracer</a>
 ## <a target="_blank" href="https://www.netacad.com/resources/lab-downloads?userLang=es-XL&courseLang=es-XL">Centro de Recursos</a>
 ## <a target="_blank" href="https://www.netacad.com/help">Centro de ayuda</a>
